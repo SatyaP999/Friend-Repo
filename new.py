@@ -1,0 +1,1 @@
+str = "New work started..."
